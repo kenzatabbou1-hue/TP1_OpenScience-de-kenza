@@ -1,1 +1,1 @@
-# TP1_OpenScience-de-kenza
+# TP1 - Open Science (Windows)
